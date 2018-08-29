@@ -8,6 +8,7 @@ import org.apache.hadoop.security.UserGroupInformation
 
 
 object HBaseUtils {
+  //ssssss
 
   /**
     * 获取Kerberos环境下的HBase连接
